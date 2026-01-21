@@ -1,0 +1,28 @@
+# Gold Price Forecasting Project Requirements
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning - NeuralProphet Time Series
+neuralprophet>=0.6.0
+torch>=2.0.0
+pytorch-lightning>=2.0.0
+
+# Scikit-learn for metrics
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+tqdm>=4.65.0
+
+# Optional: For downloading Kaggle datasets
+kaggle>=1.5.0
